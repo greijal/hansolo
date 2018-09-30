@@ -5,5 +5,7 @@ Tecnologias:
  - Spring Boot
  - MongoDB
  
- 
+ Para executar:
+   make run
+   
  By: Leandro Greijal
